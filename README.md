@@ -7,10 +7,6 @@
 
 **Museum Jensoed** merupakan sebuah aplikasi wisata berbasis website yang bertujuan untuk menampilkan informasi mengenai Museum Panglima Besar TNI Jenderal Soedirman Purwokerto
 
-![Main Page](https://i.imgur.com/7piwr6I.png)
-
-![Fitur 2](https://i.imgur.com/1iuoHu1.png)
-
 ## Fitur Aplikasi
 
 - Cari Wisata di Museum Jensoed
