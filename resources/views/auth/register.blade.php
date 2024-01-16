@@ -17,7 +17,7 @@
 			<div class="wrap-login">
 				<div class="login-pic js-tilt" data-tilt>
           <center>
-            <img style="margin-top:50px" src="{{url('assets/images/gedung_sate.png')}}" width="500px" alt="">
+            <img style="margin-top:50px" src="{{url('assets/images/museum (4).jpeg')}}" width="500px" alt="">
           </center>
 				</div>
 				<form action="/register" method="post">

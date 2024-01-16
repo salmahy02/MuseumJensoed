@@ -18,11 +18,11 @@
                           <div class="bg-card-t">
                               <div class="overlay-t"></div>
                               @if($data->id_paket == "1")
-                              <img src="{{asset('assets/images/transaksi/lembang.jpg')}}" alt="">
+                              <img src="{{asset('assets/images/transaksi/museumm.jpg')}}" alt="">
                               @elseif($data->id_paket == "2")
-                                <img src="{{asset('assets/images/transaksi/museum.jpg')}}" alt="">
+                                <img src="{{asset('assets/images/transaksi/tank.jpg')}}" alt="">
                               @else
-                              <img src="{{asset('assets/images/transaksi/tsb.jpg')}}" alt="">
+                              <img src="{{asset('assets/images/transaksi/tugu.jpg')}}" alt="">
                               @endif
                           </div>
                       </div>

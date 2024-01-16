@@ -90,7 +90,7 @@
                               alt="mandiri-logo" height="30">
                           <hr>
                           <div class="container">
-                              <p style="text-align: center">DANA 088225216477 <br>
+                              <p style="text-align: center">MANDIRI 1390027181407 <br>
                                   a/n Jensoed Tours<br>
                                   Institut Teknologi Telkom Purwokerto 53147</p>
                           </div>
@@ -104,7 +104,7 @@
                             alt="mandiri-logo" height="30">
                         <hr>
                         <div class="container">
-                              <p style="text-align: center">DANA 088225216477 <br>
+                              <p style="text-align: center">MANDIRI 1390027181407 <br>
                                   a/n Jensoed Tours<br>
                                   Institut Teknologi Telkom Purwokerto 53147</p>
                           </div>
